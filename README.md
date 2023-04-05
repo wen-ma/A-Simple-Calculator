@@ -7,7 +7,7 @@ To complete this project, you will need an AWS account, a text editor, and a web
 # Application architecture
 The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and AWS Amplify Console. Amplify Console provides continuous deployment and hosting of the static web resources including HTML, CSS, JavaScript. JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway. Finally, DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.
 
-![](pics/A Simple Calculator.drawio.png)
+![](https://github.com/wen-ma/A-Simple-Calculator/blob/main/pics/A%20Simple%20Calculator.drawio.png)
 
 1. **Static Web Hosting** AWS Amplify hosts static web resources including HTML, CSS, JavaScript. 
 2. **Serverless Backend** Amazon DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.
