@@ -15,6 +15,6 @@ The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoD
 
 # Reference
 1. [Architect and Build an End-to-End AWS Web Application from Scratch | AWS Project for Beginners](https://www.youtube.com/watch?v=7m_q1ldzw0U)
-2. [https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
+2. [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 
 
